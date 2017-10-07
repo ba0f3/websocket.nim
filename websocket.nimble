@@ -1,6 +1,6 @@
 # Package
 
-version       = "0.1.2"
+version       = "0.2.1"
 author        = "niv"
 description   = "websockets for nim"
 license       = "MIT"
